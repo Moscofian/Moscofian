@@ -1,18 +1,10 @@
-### Hi there 👋
-
-<!--
-**Moscofian/Moscofian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Moscofian
+Hey there! Nice to meet you! 
+I'm Moscofian, student of IT at IFSP-Campus Bragança Paulista.
+## ⌨️Contact me
+- [![Perfil DIO](https://img.shields.io/badge/-My%20Github%20Profile-30A3DC?style=for-the-badge)](https://github.com/Moscofian)
+- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lucasmoscofiangimenez@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-moscofian-gimenez-18b355247/)
 
 ![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moscofian&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moscofian&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)

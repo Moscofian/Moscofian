@@ -2,7 +2,7 @@
 Hey there! Nice to meet you! 
 I'm Moscofian, student of IT at IFSP-Campus Bragança Paulista.
 ## ⌨️Contact me
-- [![Perfil DIO](https://img.shields.io/badge/-My%20Github%20Profile-30A3DC?style=for-the-badge)](https://github.com/Moscofian)
+- [![Github](https://img.shields.io/badge/-My%20Github%20Profile-30A3DC?style=for-the-badge)](https://github.com/Moscofian)
 - [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lucasmoscofiangimenez@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-moscofian-gimenez-18b355247/)
 

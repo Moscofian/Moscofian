@@ -6,7 +6,7 @@ My name is Lucas Moscofian Gimenez, student of IT at IFSP.
 
 ## ⌨️Contact me
 
-- [![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lucasmoscofiangimenez@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmoscofiangimenez@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-moscofian-gimenez-18b355247/)
   
  
@@ -17,5 +17,6 @@ My name is Lucas Moscofian Gimenez, student of IT at IFSP.
   
 
 ## Github Stats
-![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moscofian&show_icons=true&hide_title=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moscofian&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moscofian&show_icons=true&hide_title=true&theme=great-gatsby)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Moscofian&theme=great-gatsby&show_icons=true)](https://github.com/Moscofian/Moscofian)
+

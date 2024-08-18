@@ -18,5 +18,5 @@ My name is Lucas Moscofian Gimenez, student of IT at IFSP.
 
 ## Github Stats
 ![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moscofian&show_icons=true&hide_title=true&theme=great-gatsby)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Moscofian&theme=great-gatsby&show_icons=true)](https://github.com/Moscofian/Moscofian)
+[![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Moscofian&theme=great-gatsby&show_icons=true&hide=css,html)](https://github.com/Moscofian/Moscofian)
 

@@ -13,8 +13,11 @@ My name is Lucas Moscofian Gimenez, student of IT at IFSP.
 ## ✨My skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📚Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Github Stats
 ![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moscofian&show_icons=true&hide_title=true&theme=great-gatsby)

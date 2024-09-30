@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=400&size=30&pause=1000&color=69F79C&center=true&width=1000&height=45&lines=Ol%C3%A1)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=400&size=30&pause=1000&color=69F79C&center=true&width=1000&height=50&lines=Ol%C3%A1)](https://git.io/typing-svg)
 # Moscofian
 Hey there! Nice to meet you! 
 

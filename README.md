@@ -1,4 +1,5 @@
-#
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=900&size=30&pause=1000&color=69F79C&center=true&width=900&lines=Ol%C3%A1)](https://git.io/typing-svg)
+
 # Moscofian
 Hey there! Nice to meet you! 
 
@@ -23,3 +24,4 @@ My name is Lucas Moscofian Gimenez, student of IT at IFSP.
 ![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moscofian&show_icons=true&hide_title=true&theme=great-gatsby)
 [![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Moscofian&theme=great-gatsby&show_icons=true&hide=css,html)](https://github.com/Moscofian/Moscofian)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A13AFF88,100:3FEEFF88&reversal=true&section=footer">

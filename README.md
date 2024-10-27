@@ -21,7 +21,10 @@ My name is Lucas Moscofian Gimenez, student of IT at IFSP.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Github Stats
-![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moscofian&show_icons=true&hide_title=true&theme=great-gatsby)
-[![Moscofian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Moscofian&theme=great-gatsby&show_icons=true&hide=css,html)](https://github.com/Moscofian/Moscofian)
+<div align=jutify>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moscofian&theme=2077"><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moscofian&theme=2077&exclude=CSS,HTML">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moscofian&theme=2077&exclude=CSS,HTML">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A13AFF88,100:3FEEFF88&reversal=true&section=footer">

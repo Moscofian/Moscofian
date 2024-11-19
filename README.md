@@ -24,7 +24,7 @@ My name is Lucas Moscofian Gimenez, student of IT at IFSP.
 <div align=jutify>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moscofian&theme=2077"><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moscofian&theme=2077&exclude=CSS,HTML">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moscofian&theme=2077&exclude=CSS,HTML">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moscofian&theme=2077&exclude=CSS,HTML">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A13AFF88,100:3FEEFF88&reversal=true&section=footer">

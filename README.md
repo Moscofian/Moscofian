@@ -2,7 +2,7 @@
 # Moscofian
 Hey there! Nice to meet you! 
 
-I am Lucas Moscofian Gimenez, student of IT at IFSP.
+I am Lucas, student of IT at IFSP.
 
 ## ⌨️Contact me
 

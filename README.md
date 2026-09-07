@@ -103,8 +103,6 @@ Projeto semestral desenvolvido em grupo na disciplina de Desenvolvimento Web Fro
 
 ---
 
-<div align="center">
-
-**Construindo projetos, aprendendo tecnologias e evoluindo como desenvolvedor.**
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&center=true&vCenter=true&width=435&lines=Pierce+The+Heavens+With+Your+Drill" alt="Typing SVG" /></a>
+</p>
